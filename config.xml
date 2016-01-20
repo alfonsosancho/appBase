@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.cdau"
+		id          = "es.chg.idechg"
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>appBase</name>
+	<name>ideCHG</name>
 	<description>
-		appBase
+		ideCHG
 	</description>
-	<author email="l-dirsigc.chap@juntadeandalucia.es" href="http://www.juntadeandalucia.es">
-		Junta de Andalucía
+	<author email="asancho@chguadalquivir.es" href="http://idechg.chguadalquivir.es">
+		Confederación Hidrográfica del Guadalquivir
 	</author>
 	<content src="index.html" />
 	<access origin="*" />
